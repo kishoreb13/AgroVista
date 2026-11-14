@@ -511,9 +511,9 @@ The application uses FastAPI for backend functionality and interactive API docum
 
 After starting the server, access:
 
-**Swagger UI:** `http://127.0.0.1:8000/docs`
+**Swagger UI:** `[http://127.0.0.1:8000/docs](https://agrovista-0w6v.onrender.com/)`
 
-**OpenAPI documentation:** `http://127.0.0.1:8000/openapi.json`
+**OpenAPI documentation:** `[http://127.0.0.1:8000/openapi.json](https://agrovista-0w6v.onrender.com/docs)`
 
 Backend source files:
 
