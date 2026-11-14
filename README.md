@@ -498,8 +498,8 @@ python -m uvicorn backend.main:app --reload --host 0.0.0.0
 
 | Resource | Address |
 |---|---|
-| AgroVista Dashboard | http://127.0.0.1:8000 |
-| Interactive API Documentation | http://127.0.0.1:8000/docs |
+| AgroVista Dashboard | [http://127.0.0.1:8000](https://agrovista-0w6v.onrender.com/) |
+| Interactive API Documentation | [http://127.0.0.1:8000/docs](https://agrovista-0w6v.onrender.com/docs) |
 
 Keep the terminal running while using the application.
 
@@ -511,9 +511,9 @@ The application uses FastAPI for backend functionality and interactive API docum
 
 After starting the server, access:
 
-**Swagger UI:** `[http://127.0.0.1:8000/docs](https://agrovista-0w6v.onrender.com/)`
+**Swagger UI:** `http://127.0.0.1:8000/docs`
 
-**OpenAPI documentation:** `[http://127.0.0.1:8000/openapi.json](https://agrovista-0w6v.onrender.com/docs)`
+**OpenAPI documentation:** `http://127.0.0.1:8000/openapi.json`
 
 Backend source files:
 
