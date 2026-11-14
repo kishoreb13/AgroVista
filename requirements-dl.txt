@@ -1,0 +1,3 @@
+# Install after requirements.txt for PyTorch deep-learning experiments.
+# CPU build (Windows/Linux): visit https://pytorch.org/get-started/locally/ if this command is unsuitable.
+torch>=2.2
